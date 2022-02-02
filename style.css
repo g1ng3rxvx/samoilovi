@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+body {
+    font-family: Montserrat;
+
+}
+header {
+    background-color: #024C68;
+    height: 101px;
+}
+header img {
+    position: absolute;
+    width: 87px;
+    height: 47.8px;
+    left: 24px;
+    top: 26.1px;
+}
+main img {
+    margin: 40px;
+}
+h1 {
+    text-align: center;
+}
+h2, li {
+    color: orangered;
+}
+main p {
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    padding: 10px;
+    font-size: 48px;
+    text-align: center;
+}
+footer {
+    background-color: #024C68;
+    color: white;
+
+}
+footer p {
+    border: 5px solid #024C68;
+    padding: 3px;
+    font-size: 24px;
+}
+li {
+    color: black;
+    font-size: 24px;
+    margin: 5px;
+
+}
+h2 {
+    font-size: 36px;
+}
+ul {
+    list-style: url("https://mars.algoritmika.org/uploads/2021/01/Arrow%201_0_1611261359.svg");
+}
+h2 img {
+    position: absolute;
+}
+header a {
+    background-color: #FFB600;
+    margin: 20px 150px;
+    border-radius: 10px;
+    color: black;
+    font-size: 36px;
+    position: absolute;
+}
